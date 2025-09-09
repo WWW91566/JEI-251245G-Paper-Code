@@ -1,0 +1,24 @@
+# Deep learning framework
+torch==2.0.1
+torchvision==0.15.2
+
+# Quantum computing
+pennylane==0.32.0
+pennylane-lightning==0.32.0
+
+# Data processing
+numpy==1.24.3
+scipy==1.10.1
+pandas==1.5.3
+
+# Image handling
+scikit-image==0.20.0
+Pillow==9.4.0
+
+# Metrics and plotting
+scikit-learn==1.2.2
+matplotlib==3.7.1
+
+# Utilities
+tqdm==4.65.0
+python-dotenv==1.0.0
