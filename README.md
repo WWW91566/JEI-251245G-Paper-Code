@@ -1,2 +1,1 @@
-# JEI-251245G-Paper-Code
-Code and supplementary materials for JEI paper 251245G
+This repository is the supporting codebase for "Fine Segmentation of Hyperspectral Canopy Images Using Quantum-Enhanced U-Net" (JEI 251245G), including model implementation, data processing scripts, and reproducibility guidelines for academic peers to verify and reference.
